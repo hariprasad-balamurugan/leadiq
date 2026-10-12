@@ -1,0 +1,306 @@
+[
+  {
+    "name": "TechNova Solutions",
+    "website": "https://technova.example.com",
+    "industry": "SaaS",
+    "location": "Chennai, India",
+    "employeeCount": 120,
+    "technologies": ["React", "Node.js", "MongoDB", "TypeScript", "AWS"],
+    "revenueEstimate": 2500000,
+    "growthSignals": ["Hiring", "New Product Launch", "Expanding Team"],
+    "contact": {
+      "name": "John Smith",
+      "title": "CEO",
+      "email": "john@technova.example.com",
+      "phone": "+91 98765 43210",
+      "linkedin": "https://linkedin.com/in/johnsmith-technova"
+    },
+    "verified": true,
+    "isSaved": true
+  },
+  {
+    "name": "CloudPulse AI",
+    "website": "https://cloudpulse.example.com",
+    "industry": "SaaS",
+    "location": "Bengaluru, India",
+    "employeeCount": 250,
+    "technologies": ["Python", "React", "AWS", "Docker", "PostgreSQL"],
+    "revenueEstimate": 6200000,
+    "growthSignals": ["Series B Funding", "Hiring", "International Expansion"],
+    "contact": {
+      "name": "Ananya Rao",
+      "title": "VP of Engineering",
+      "email": "ananya@cloudpulse.example.com",
+      "phone": "+91 98123 45678",
+      "linkedin": "https://linkedin.com/in/ananyarao"
+    },
+    "verified": true,
+    "isSaved": true
+  },
+  {
+    "name": "FinEdge Analytics",
+    "website": "https://finedge.example.com",
+    "industry": "FinTech",
+    "location": "Mumbai, India",
+    "employeeCount": 85,
+    "technologies": ["Node.js", "React", "MongoDB", "Python", "Kubernetes"],
+    "revenueEstimate": 1800000,
+    "growthSignals": ["Hiring", "New Partnership"],
+    "contact": {
+      "name": "Vikram Malhotra",
+      "title": "Chief Product Officer",
+      "email": "vikram@finedge.example.com",
+      "phone": "+91 97654 32109",
+      "linkedin": "https://linkedin.com/in/vikrammalhotra"
+    },
+    "verified": true,
+    "isSaved": false
+  },
+  {
+    "name": "BioHealth Systems",
+    "website": "https://biohealth.example.com",
+    "industry": "Healthcare",
+    "location": "Hyderabad, India",
+    "employeeCount": 310,
+    "technologies": ["Java", "React", "PostgreSQL", "AWS"],
+    "revenueEstimate": 8500000,
+    "growthSignals": ["FDA Approval", "Expanding Team"],
+    "contact": {
+      "name": "Dr. Priya Sharma",
+      "title": "Head of Digital Health",
+      "email": "priya@biohealth.example.com",
+      "phone": "+91 99887 76655",
+      "linkedin": "https://linkedin.com/in/drpriyasharma"
+    },
+    "verified": true,
+    "isSaved": false
+  },
+  {
+    "name": "Apex Commerce",
+    "website": "https://apexcommerce.example.com",
+    "industry": "E-commerce",
+    "location": "Delhi, India",
+    "employeeCount": 420,
+    "technologies": ["React", "Node.js", "MongoDB", "Redis", "AWS"],
+    "revenueEstimate": 12000000,
+    "growthSignals": ["Hiring", "New Product Launch"],
+    "contact": {
+      "name": "Rahul Verma",
+      "title": "Chief Technology Officer",
+      "email": "rahul@apexcommerce.example.com",
+      "phone": "+91 91234 56789",
+      "linkedin": "https://linkedin.com/in/rahulverma-apex"
+    },
+    "verified": true,
+    "isSaved": true
+  },
+  {
+    "name": "CyberShield Security",
+    "website": "https://cybershield.example.com",
+    "industry": "Cybersecurity",
+    "location": "Chennai, India",
+    "employeeCount": 65,
+    "technologies": ["Python", "Node.js", "AWS", "Docker"],
+    "revenueEstimate": 1500000,
+    "growthSignals": ["Hiring", "Patent Awarded"],
+    "contact": {
+      "name": "Karthik Subramanian",
+      "title": "VP of Product",
+      "email": "karthik@cybershield.example.com",
+      "phone": "+91 98400 11223",
+      "linkedin": "https://linkedin.com/in/karthiksubramanian"
+    },
+    "verified": true,
+    "isSaved": false
+  },
+  {
+    "name": "Precision Fab Tech",
+    "website": "https://precisionfab.example.com",
+    "industry": "Manufacturing",
+    "location": "Pune, India",
+    "employeeCount": 650,
+    "technologies": ["Python", "PostgreSQL", "AWS"],
+    "revenueEstimate": 18000000,
+    "growthSignals": ["Factory Expansion"],
+    "contact": {
+      "name": "Sanjay Kulkarni",
+      "title": "Director of Operations",
+      "email": "sanjay@precisionfab.example.com",
+      "phone": "+91 93210 44556",
+      "linkedin": "https://linkedin.com/in/sanjaykulkarni"
+    },
+    "verified": false,
+    "isSaved": false
+  },
+  {
+    "name": "Nexus Logistics",
+    "website": "https://nexuslogistics.example.com",
+    "industry": "Logistics",
+    "location": "Bengaluru, India",
+    "employeeCount": 180,
+    "technologies": ["React", "Node.js", "MongoDB", "AWS"],
+    "revenueEstimate": 4100000,
+    "growthSignals": ["Hiring", "Expanding Team"],
+    "contact": {
+      "name": "Meera Nair",
+      "title": "VP of Growth",
+      "email": "meera@nexuslogistics.example.com",
+      "phone": "+91 98760 12345",
+      "linkedin": "https://linkedin.com/in/meeranair"
+    },
+    "verified": true,
+    "isSaved": false
+  },
+  {
+    "name": "OmniPay Global",
+    "website": "https://omnipay.example.com",
+    "industry": "FinTech",
+    "location": "Chennai, India",
+    "employeeCount": 95,
+    "technologies": ["React", "Node.js", "TypeScript", "PostgreSQL"],
+    "revenueEstimate": 2200000,
+    "growthSignals": ["Series A Funding", "Hiring"],
+    "contact": {
+      "name": "Arun Kumar",
+      "title": "Co-founder & CTO",
+      "email": "arun@omnipay.example.com",
+      "phone": "+91 94440 98765",
+      "linkedin": "https://linkedin.com/in/arunkumar-omnipay"
+    },
+    "verified": true,
+    "isSaved": true
+  },
+  {
+    "name": "MedViz Diagnostics",
+    "website": "https://medviz.example.com",
+    "industry": "Healthcare",
+    "location": "Bengaluru, India",
+    "employeeCount": 45,
+    "technologies": ["Python", "React", "AWS"],
+    "revenueEstimate": 950000,
+    "growthSignals": ["Clinical Trial Launch"],
+    "contact": {
+      "name": "Dr. Sameer Joshi",
+      "title": "Founder",
+      "email": "sameer@medviz.example.com",
+      "phone": "+91 98220 33445",
+      "linkedin": "https://linkedin.com/in/sameerjoshi"
+    },
+    "verified": false,
+    "isSaved": false
+  },
+  {
+    "name": "DataFlux Intelligence",
+    "website": "https://dataflux.example.com",
+    "industry": "SaaS",
+    "location": "Chennai, India",
+    "employeeCount": 140,
+    "technologies": ["React", "Node.js", "MongoDB", "Python", "AWS"],
+    "revenueEstimate": 3100000,
+    "growthSignals": ["Hiring", "New Product Launch", "Expanding Team"],
+    "contact": {
+      "name": "Deepa Venkatesh",
+      "title": "Head of Sales",
+      "email": "deepa@dataflux.example.com",
+      "phone": "+91 97890 54321",
+      "linkedin": "https://linkedin.com/in/deepavenkatesh"
+    },
+    "verified": true,
+    "isSaved": true
+  },
+  {
+    "name": "Veloce Mobility",
+    "website": "https://velocemobility.example.com",
+    "industry": "Automotive",
+    "location": "Pune, India",
+    "employeeCount": 210,
+    "technologies": ["Python", "AWS", "Docker"],
+    "revenueEstimate": 5400000,
+    "growthSignals": ["New Partnership"],
+    "contact": {
+      "name": "Rohan Patel",
+      "title": "Director of Tech",
+      "email": "rohan@velocemobility.example.com",
+      "phone": "+91 98980 11223",
+      "linkedin": "https://linkedin.com/in/rohanpatel"
+    },
+    "verified": true,
+    "isSaved": false
+  },
+  {
+    "name": "StratoCloud Security",
+    "website": "https://stratocloud.example.com",
+    "industry": "Cybersecurity",
+    "location": "Bengaluru, India",
+    "employeeCount": 110,
+    "technologies": ["React", "Node.js", "Kubernetes", "AWS", "TypeScript"],
+    "revenueEstimate": 2800000,
+    "growthSignals": ["Hiring", "Series A Funding"],
+    "contact": {
+      "name": "Sarah Jenkins",
+      "title": "VP of Revenue",
+      "email": "sarah@stratocloud.example.com",
+      "phone": "+91 96110 55443",
+      "linkedin": "https://linkedin.com/in/sarahjenkins"
+    },
+    "verified": true,
+    "isSaved": false
+  },
+  {
+    "name": "CraftCart India",
+    "website": "https://craftcart.example.com",
+    "industry": "E-commerce",
+    "location": "Jaipur, India",
+    "employeeCount": 35,
+    "technologies": ["React", "Node.js", "MongoDB"],
+    "revenueEstimate": 600000,
+    "growthSignals": ["New Product Launch"],
+    "contact": {
+      "name": "Amitabh Roy",
+      "title": "Founder & CEO",
+      "email": "amitabh@craftcart.example.com",
+      "phone": "+91 94140 88776",
+      "linkedin": "https://linkedin.com/in/amitabhroy"
+    },
+    "verified": true,
+    "isSaved": false
+  },
+  {
+    "name": "AgroPulse Tech",
+    "website": "https://agropulse.example.com",
+    "industry": "AgriTech",
+    "location": "Coimbatore, India",
+    "employeeCount": 75,
+    "technologies": ["Python", "React", "AWS"],
+    "revenueEstimate": 1400000,
+    "growthSignals": ["Government Grant Received"],
+    "contact": {
+      "name": "Kavitha Rajan",
+      "title": "COO",
+      "email": "kavitha@agropulse.example.com",
+      "phone": "+91 98422 66778",
+      "linkedin": "https://linkedin.com/in/kavitharajan"
+    },
+    "verified": false,
+    "isSaved": false
+  },
+  {
+    "name": "HyperScale AI",
+    "website": "https://hyperscaleai.example.com",
+    "industry": "SaaS",
+    "location": "Chennai, India",
+    "employeeCount": 160,
+    "technologies": ["React", "Node.js", "Python", "MongoDB", "AWS", "Docker"],
+    "revenueEstimate": 3900000,
+    "growthSignals": ["Hiring", "Expanding Team", "New Product Launch"],
+    "contact": {
+      "name": "Venkatesh Iyer",
+      "title": "Chief Executive Officer",
+      "email": "venky@hyperscaleai.example.com",
+      "phone": "+91 98401 77889",
+      "linkedin": "https://linkedin.com/in/venkateshiyer"
+    },
+    "verified": true,
+    "isSaved": true
+  }
+]

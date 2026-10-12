@@ -1,0 +1,16 @@
+{
+  "name": "leadiq-monorepo",
+  "version": "1.0.0",
+  "description": "LeadIQ - Smart Lead Generation & Qualification System",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:backend": "npm --prefix backend run build",
+    "build:frontend": "npm --prefix frontend run build",
+    "start:backend": "npm --prefix backend run start",
+    "install:all": "npm --prefix backend install && npm --prefix frontend install"
+  },
+  "keywords": ["lead-generation", "lead-scoring", "react", "express", "mongodb", "typescript"],
+  "author": "LeadIQ Engineering Team",
+  "license": "MIT"
+}
