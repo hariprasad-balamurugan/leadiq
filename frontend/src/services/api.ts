@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { ILead, ILeadStats, FilterState } from '../types/lead';
 
-const API_BASE = '/api/leads';
+const API_BASE = `${import.meta.env.VITE_API_URL || ''}/api/leads`;
 
 export async function getLeads(filters?: Partial<FilterState> & { page?: number; limit?: number }) {
   const params: any = {};
