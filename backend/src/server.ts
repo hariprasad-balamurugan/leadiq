@@ -1,9 +1,21 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
+import path from 'path';
+import fs from 'fs';
 import { connectDB } from './config/db.js';
 import leadRoutes from './routes/leadRoutes.js';
 
+// Ensure backend/.env is loaded whether started from workspace root or backend directory
+const envPaths = [
+  path.resolve(process.cwd(), '.env'),
+  path.resolve(process.cwd(), 'backend/.env')
+];
+for (const p of envPaths) {
+  if (fs.existsSync(p)) {
+    dotenv.config({ path: p });
+  }
+}
 dotenv.config();
 
 const app = express();
